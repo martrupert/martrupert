@@ -1,5 +1,5 @@
 ### Well hello there 👀
-My name is Mart and I'm a Dutch software engineering student who is:
+My name is Mart and I'm a Dutch software engineering student who's:
 
 - 🛠️ Working on building his own website
 - 👨‍🎓 Learning about the epicness of front-end frameworks like React, Angular, Vue & Svelte
