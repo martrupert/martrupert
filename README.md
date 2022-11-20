@@ -1,4 +1,4 @@
-### Well hello there 👀
+### Hi there! 👋😄
 My name is Mart and I'm a Dutch software engineering student who's currently:
 
 - 🛠️ Working on building his own website
