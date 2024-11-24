@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-Here you will find a collection of my projects, contributions, and a glimpse into my technical expertise.
+Here you will find a collection of my contributions and a glimpse into my technical expertise.
 
 ## 🧠 My Skillset
 
